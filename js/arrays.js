@@ -68,10 +68,14 @@ for(let i = 0; i < fruits.length; i++){     //fruits.length retuns a number valu
 //CHALLENGE
 //Create an array of your top 5 movies
 //Create a LOOP that console.logs each of those movies
-// use toUpperCase() to console.log all movies in al caps
+// use toUpperCase() to console.log all movies in all caps
 
 let movies = ['Black Dynamite', 'Zoolander', 'Akira', 'Grave of the Fireflies', 'Midsommar'];
 
 for(let i = 0; i < movies.length; i++){     
     console.log(movies[i].toUpperCase());   
 }
+
+//It is possible to push items from on array into another
+//It is possible to concat two arrays to make a third array
+
