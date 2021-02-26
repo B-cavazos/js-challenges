@@ -4,7 +4,7 @@
     // 2. if they confirm it should then trigger a prompt that asks if they would like to 'add', 'subtract', 'multiply' or 'divide' the two values [x]
     // then trigger prompts that asks for the number values [x]
     // And finally an alert that lets the user know the result of their values [x]
-    // Create a js-challenge-three.html and js-challenge-three.js file and submit to github when you are done []
+    // Create a js-challenge-three.html and js-challenge-three.js file and submit to github when you are done [x]
     // Aside: Create separate functions to run different tasks. And feel free to make your code as dynamic and efficient as you see fit []
 
 
