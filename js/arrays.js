@@ -76,6 +76,6 @@ for(let i = 0; i < movies.length; i++){
     console.log(movies[i].toUpperCase());   
 }
 
-//It is possible to push items from on array into another
+//It is possible to push items from one array into another
 //It is possible to concat two arrays to make a third array
 

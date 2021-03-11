@@ -87,10 +87,10 @@ for (let i = 0; i < animals.length; i++){
 }
 
 
-// HIGER ORDER ARRAY METHODS
+// HIGHER ORDER ARRAY METHODS
 
     //array .forEach() METHOD
-animals.forEach(function (p) {     //we pass a function into the forEach method, function needs no name but needs FUNCTION SYNTAX
+animals.forEach(function (p) {     //we pass a function into the forEach method, function needs no name but needs FUNCTION SYNTAX and PERAMETER, p represents an instance
     console.log('my animal ', p['name']);  //forEach will loop through the array
 });
 
@@ -124,3 +124,9 @@ let evilAnimalNames = animals.filter((animals) => {
 });
 
 console.log('My evil animals are named:', evilAnimalNames);
+
+
+
+//more notes
+    // forEach() — executes a provided function once for each array element.
+    // map() — creates a new array with the results of calling a provided function on every element in the calling array.

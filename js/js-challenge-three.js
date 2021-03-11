@@ -19,7 +19,6 @@ const calculator = () =>{
     
 //prompt one -- lets see if we can add a prompt if we cancel here --
     let arithmeticChoice = prompt('Would you like to add, subtract, multiply, or divide your two values?'); 
-    
     // debugger
    
 //prompt values and result
